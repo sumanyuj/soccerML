@@ -7,12 +7,10 @@ import numpy as np
 #from sklearn.metrics import mean_squared_error
 #use pandas to remove columns and remove data 
 currentindex= 0
-def parsing():
-    with open('cleaned_strikers_only.csv', mode ='r')as file:
-        csvFile = csv.reader(file) #reads the file
-        for lines in csvFile: 
-            lines.filter(items = [3], axis = 0) #get index 3, index 4, 5, 7,15,22
-            print(lines)
-        return lines 
-    with open('new.csv', 'w', newline='') as file:
-        newfile= csv.writer( ) #inputs the onlt filtered information 
+data = pd.read_csv('cleaned_strikers_only.csv' )
+#print(df)
+filtered_informaiton = data[['Player', 'Age', 'MP', 'Gls', 'Ast', 'xG', 'PrgC', 'PrgR']]
+print(filtered_informaiton)
+filtered_informaiton.to_csv('new.csv', index=False)
+#used the various sources down below: https://www.geeksforgeeks.org/python-extracting-rows-using-pandas-iloc/, https://pandas.pydata.org/docs/user_guide/indexing.html, https://www.geeksforgeeks.org/filter-pandas-dataframe-based-on-index/
+#https://blog.hubspot.com/website/filter-rows-pandas, https://www.geeksforgeeks.org/python-extracting-rows-using-pandas-iloc/, https://www.geeksforgeeks.org/indexing-and-selecting-data-with-pandas/
