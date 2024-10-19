@@ -9,7 +9,7 @@ import numpy as np
 currentindex= 0
 data = pd.read_csv('cleaned_strikers_only.csv' )
 #print(df)
-filtered_informaiton = data[['Player', 'Age', 'MP', 'Gls', 'Ast', 'xG', 'PrgC', 'PrgR']]
+filtered_informaiton = data[['Player', 'Age', 'MP', 'Starts', 'Gls', 'Ast', 'xG', 'PrgC', 'PrgR']]
 print(filtered_informaiton)
 filtered_informaiton.to_csv('new.csv', index=False)
 #used the various sources down below: https://www.geeksforgeeks.org/python-extracting-rows-using-pandas-iloc/, https://pandas.pydata.org/docs/user_guide/indexing.html, https://www.geeksforgeeks.org/filter-pandas-dataframe-based-on-index/
