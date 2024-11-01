@@ -7,7 +7,7 @@ import numpy as np
 #from sklearn.metrics import mean_squared_error
 #use pandas to remove columns and remove data 
 currentindex= 0
-data = pd.read_csv('clean2023-2024.csv' )
+data = pd.read_csv('inputfile.csv' )
 #print(df)#goals_scored, assists, minutes, influence, threat, now_cost
 filtered_informaiton = data[[ 'first_name', 'second_name',  'goals_scored', 'assists', 'minutes', 'influence', 'threat', 'now_cost']]
 print(filtered_informaiton)
