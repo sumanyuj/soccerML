@@ -1,0 +1,866 @@
+first_name,second_name,goals_scored,assists,minutes,influence,threat,now_cost
+Folarin,Balogun,0,0,0,0.0,0.0,44
+Cédric,Alves Soares,0,0,59,2.0,0.0,38
+Mohamed,Elneny,0,1,25,4.0,10.0,44
+Fábio,Ferreira Vieira,1,3,290,82.8,85.0,54
+Gabriel,dos Santos Magalhães,3,1,3042,675.8,379.0,54
+Kai,Havertz,13,10,2627,763.2,1027.0,76
+Gabriel,Fernando de Jesus,4,7,1470,364.8,756.0,77
+Jorge Luiz,Frello Filho,0,2,913,165.4,16.0,53
+Jakub,Kiwior,1,3,942,228.8,90.0,40
+Marcus,Oliveira Alencar,0,0,0,0.0,0.0,45
+Gabriel,Martinelli Silva,6,5,2010,500.4,795.0,75
+Eddie,Nketiah,5,4,1065,235.0,417.0,50
+Martin,Ødegaard,8,11,3098,910.4,757.0,86
+Thomas,Partey,0,0,785,117.6,37.0,48
+Nicolas,Pépé,0,0,0,0.0,0.0,49
+Aaron,Ramsdale,0,0,540,73.2,0.0,45
+Rúnar Alex,Rúnarsson,0,0,0,0.0,0.0,40
+Bukayo,Saka,16,12,2922,1093.8,1342.0,88
+William,Saliba,2,1,3420,697.2,140.0,59
+Emile,Smith Rowe,0,2,343,62.4,128.0,53
+Kieran,Tierney,0,0,0,0.0,0.0,44
+Takehiro,Tomiyasu,2,1,1140,247.0,143.0,45
+Leandro,Trossard,12,2,1633,563.6,746.0,66
+Benjamin,White,4,5,2987,765.8,234.0,61
+Granit,Xhaka,0,0,0,0.0,0.0,60
+Oleksandr,Zinchenko,1,2,1717,395.4,133.0,50
+David,Raya Martin,0,0,2880,413.0,0.0,53
+Declan,Rice,7,9,3225,959.4,451.0,55
+Reiss,Nelson,0,0,256,42.8,39.0,48
+Jurriën,Timber,0,0,70,5.8,2.0,46
+Karl,Hein,0,0,0,0.0,0.0,40
+Charles,Sagoe,0,0,0,0.0,0.0,45
+Reuell,Walters,0,0,0,0.0,0.0,40
+Bradley,Ibrahim,0,0,0,0.0,0.0,45
+Myles,Lewis-Skelly,0,0,0,0.0,0.0,45
+Ethan,Nwaneri,0,0,13,2.0,4.0,45
+Mauro,Bandeira,0,0,0,0.0,0.0,45
+James,Sweet,0,0,0,0.0,0.0,40
+Alexandre,Moreno Lopera,2,0,1024,217.8,152.0,49
+Leon,Bailey,10,11,2063,663.2,623.0,54
+Emiliano,Buendía Stati,0,0,0,0.0,0.0,57
+Matty,Cash,2,2,2138,465.2,378.0,45
+Calum,Chambers,0,1,149,39.0,0.0,38
+Philippe,Coutinho Correia,0,0,24,4.0,12.0,58
+Keinan,Davis,0,0,0,0.0,0.0,49
+Leander,Dendoncker,1,1,118,59.2,37.0,49
+Diego Carlos,Santos Silva,0,0,1809,370.4,100.0,44
+Lucas,Digne,1,4,2405,448.4,200.0,46
+Douglas Luiz,Soares de Paulo,9,5,2994,761.8,381.0,54
+Jhon,Durán,5,1,461,190.2,165.0,50
+Kortney,Hause,0,0,0,0.0,0.0,39
+Tim,Iroegbunam,0,0,157,18.6,0.0,44
+Boubacar,Kamara,0,1,1653,256.2,44.0,50
+Ezri,Konsa Ngoyo,1,1,3069,554.4,223.0,45
+Emiliano,Martínez Romero,0,0,3015,802.0,0.0,52
+John,McGinn,6,5,3000,640.4,360.0,53
+Tyrone,Mings,0,0,30,3.6,5.0,41
+Robin,Olsen,0,0,405,194.6,0.0,39
+Jaden,Philogene-Bidace,0,0,3,0.4,2.0,45
+Jacob,Ramsey,1,1,848,124.0,182.0,59
+Morgan,Sanson,0,0,0,0.0,0.0,45
+Viljami,Sinisalo,0,0,0,0.0,0.0,40
+Youri,Tielemans,2,6,1613,369.2,136.0,56
+Bertrand,Traoré,0,0,10,3.0,0.0,50
+Ollie,Watkins,19,18,3222,1024.6,1420.0,89
+Wesley,Moraes Ferreira da Silva,0,0,0,0.0,0.0,50
+Pau,Torres,2,0,2462,479.4,135.0,46
+Moussa,Diaby,6,11,2168,515.4,675.0,63
+Omari,Kellyman,0,0,35,2.6,2.0,45
+Filip,Marschall,0,0,0,0.0,0.0,40
+Nicolò,Zaniolo,2,0,824,146.8,357.0,54
+Oliwier,Zych,0,0,0,0.0,0.0,40
+Clément,Lenglet,0,1,1153,250.6,103.0,45
+Sam,Proctor,0,0,0,0.0,0.0,40
+Tommi,O'Reilly,0,0,0,0.0,0.0,45
+James,Wright,0,0,0,0.0,0.0,40
+Kaine,Kesler-Hayden,0,0,5,0.0,0.0,40
+Morgan,Rogers,3,1,636,177.8,150.0,50
+Joe,Gauci,0,0,0,0.0,0.0,39
+Finley,Munroe,0,0,3,0.0,0.0,40
+Kadan,Young,0,0,0,0.0,0.0,45
+Lander,Emery,0,0,0,0.0,0.0,40
+Jaidon,Anthony,0,0,151,9.0,16.0,49
+Philip,Billing,2,3,1385,304.2,267.0,51
+David,Brooks,1,1,271,88.2,113.0,47
+Ryan,Christie,0,5,2908,620.2,351.0,50
+Lewis,Cook,0,3,2787,520.2,67.0,48
+Siriki,Dembélé,0,0,0,0.0,0.0,45
+Ryan,Fredericks,0,0,0,0.0,0.0,43
+James,Hill,0,0,74,32.6,0.0,40
+Lloyd,Kelly,0,1,1553,279.0,48.0,45
+Gavin,Kilkenny,0,0,0,0.0,0.0,43
+Justin,Kluivert,7,1,1910,362.2,619.0,46
+Jamal,Lowe,0,0,0,0.0,0.0,49
+Emiliano,Marcondes,0,0,0,0.0,0.0,43
+Chris,Mepham,0,1,613,142.6,27.0,43
+Kieffer,Moore,1,0,100,37.4,81.0,46
+Norberto,Murara Neto,0,0,2880,875.2,0.0,46
+Dango,Ouattara,1,2,1214,298.4,332.0,47
+Ben,Pearson,0,0,0,0.0,0.0,45
+Darren,Randolph,0,0,0,0.0,0.0,39
+Joe,Rothwell,0,0,380,45.8,5.0,48
+Antoine,Semenyo,8,4,2099,506.8,748.0,45
+Marcos,Senesi,4,5,2239,735.0,147.0,44
+Adam,Smith,0,3,2148,336.4,27.0,44
+Dominic,Solanke,19,3,3325,902.0,1348.0,69
+Marcus,Tavernier,3,4,2118,468.4,460.0,50
+Hamed,Traorè,0,0,44,12.8,30.0,47
+Mark,Travers,0,0,360,92.6,0.0,40
+Illia,Zabarnyi,1,0,3330,686.0,117.0,44
+Milos,Kerkez,0,2,1966,310.0,150.0,44
+Ionuț,Radu,0,0,180,33.0,0.0,43
+Ben,Greenwood,0,0,0,0.0,0.0,40
+Max,Aarons,0,1,1233,179.6,27.0,44
+Alex,Scott,1,1,1003,197.0,116.0,49
+Tyler,Adams,0,0,118,24.6,10.0,49
+Luis,Sinisterra,2,2,685,221.4,343.0,55
+Romain,Faivre,0,0,37,5.0,13.0,50
+Max,Kinsey,0,0,0,0.0,0.0,40
+Enes,Ünal,2,4,317,142.4,242.0,50
+Dominic,Sadi,0,0,1,0.0,0.0,45
+Michael,Dacosta Gonzalez,0,0,0,0.0,0.0,45
+Callan,McKenna,0,0,0,0.0,0.0,40
+Kristoffer,Ajer,2,1,1826,406.8,223.0,44
+Ellery,Balcombe,0,0,0,0.0,0.0,39
+Shandon,Baptiste,1,1,222,92.4,60.0,43
+Mads,Bech Sørensen,0,0,0,0.0,0.0,40
+Mads,Bidstrup,0,0,0,0.0,0.0,45
+Sergi,Canós Tenés,0,0,0,0.0,0.0,50
+Nathan,Collins,1,1,2649,653.8,180.0,45
+Matthew,Cox,0,0,0,0.0,0.0,40
+Mikkel,Damsgaard,0,4,829,162.6,103.0,48
+Josh,Dasilva,0,0,22,6.8,14.0,47
+Halil,Dervişoğlu,0,0,0,0.0,0.0,45
+Mark,Flekken,0,1,3285,921.2,0.0,47
+Charlie,Goode,0,0,0,0.0,0.0,39
+Rico,Henry,0,1,401,72.8,17.0,42
+Aaron,Hickey,0,0,713,66.6,37.0,43
+Vitaly,Janelt,1,4,3054,503.4,285.0,52
+Mathias,Jensen,3,4,2201,481.2,135.0,52
+Keane,Lewis-Potter,3,2,1428,280.0,573.0,47
+Bryan,Mbeumo,9,7,1957,554.2,576.0,68
+Ben,Mee,2,1,1272,334.8,118.0,47
+Christian,Nørgaard,2,1,2504,501.8,316.0,52
+Frank,Onyeka,1,2,1147,259.0,189.0,49
+Ethan,Pinnock,2,0,2521,653.2,221.0,45
+Mads,Roerslev Rasmussen,1,2,1975,382.0,94.0,44
+Kevin,Schade,2,2,327,105.8,100.0,52
+Thomas,Strakosha,0,0,135,42.8,0.0,39
+Ivan,Toney,4,3,1449,289.6,524.0,77
+Ryan,Trevitt,0,0,0,0.0,0.0,45
+Yoane,Wissa,12,4,2488,592.8,769.0,57
+Yegor,Yarmoliuk,0,0,670,98.4,127.0,42
+Mathias,Jorgensen,1,0,1086,216.0,90.0,43
+Neal,Maupay,6,3,1417,325.8,568.0,49
+Sergio,Reguilón,0,6,1524,390.2,111.0,45
+Michael,Olakigbe,0,0,51,4.8,27.0,45
+Ethan,Brierley,0,0,0,0.0,0.0,45
+Saman,Ghoddos,1,0,728,139.8,45.0,45
+Ji-Soo,Kim,0,0,0,0.0,0.0,40
+Valintino,Adedokun,0,0,0,0.0,0.0,40
+Myles,Peart-Harris,0,0,11,2.2,2.0,45
+Vincent,Angelini,0,0,0,0.0,0.0,40
+Hákon,Valdimarsson,0,0,0,0.0,0.0,40
+Benjamin,Fredrick,0,0,0,0.0,0.0,40
+Benjamin,Arthur,0,0,0,0.0,0.0,40
+Yunus,Konak,0,0,0,0.0,0.0,45
+Simon,Adingra,6,1,2220,477.6,751.0,50
+Steven,Alzate,0,0,0,0.0,0.0,44
+Yasin,Ayari,0,0,0,0.0,0.0,45
+Facundo,Buonanotte,3,1,1356,254.8,238.0,47
+Aaron,Connolly,0,0,0,0.0,0.0,45
+Mahmoud,Dahoud,0,1,449,70.4,24.0,48
+Lewis,Dunk,3,1,2869,823.0,389.0,52
+Julio,Enciso,0,2,468,81.0,157.0,50
+Pervis,Estupiñán,2,3,1242,350.8,156.0,47
+Evan,Ferguson,6,1,1356,275.0,393.0,57
+Billy,Gilmour,0,3,2116,291.4,104.0,48
+Pascal,Groß,4,11,3112,988.6,434.0,61
+João Pedro,Junqueira de Jesus,9,3,2037,622.4,932.0,52
+Michał,Karbownik,0,0,0,0.0,0.0,40
+Kacper,Kozłowski,0,0,0,0.0,0.0,45
+Adam,Lallana,0,1,839,83.0,130.0,49
+Tariq,Lamptey,0,3,908,144.6,60.0,39
+Solly,March,3,1,555,197.4,139.0,61
+Tom,McGill,0,0,0,0.0,0.0,39
+James,Milner,0,2,770,152.8,61.0,48
+Kaoru,Mitoma,3,7,1485,327.6,636.0,64
+Jakub,Moder,0,0,608,87.2,84.0,44
+Jeremy,Sarmiento Morante,0,0,0,0.0,0.0,45
+Kjell,Scherpen,0,0,0,0.0,0.0,40
+Jason,Steele,0,0,1530,382.2,0.0,40
+Deniz,Undav,0,0,0,0.0,0.0,55
+Jan Paul,van Hecke,0,0,2368,631.8,175.0,40
+Joël,Veltman,1,1,1579,320.8,98.0,43
+Bart,Verbruggen,0,0,1890,541.4,0.0,44
+Adam,Webster,0,0,1142,252.2,54.0,42
+Danny,Welbeck,5,4,1687,326.2,492.0,57
+Andi,Zeqiri,0,0,0,0.0,0.0,44
+Igor Julio,dos Santos de Paulo,0,0,1631,297.8,23.0,43
+Jack,Hinshelwood,3,0,866,200.2,230.0,45
+Carlos,Baleba,0,0,1314,179.8,72.0,45
+Anssumane,Fati Vieira,2,1,509,121.4,292.0,64
+Mark,O’Mahony,0,0,61,6.0,6.0,45
+Benicio,Baker-Boaitey,0,0,37,4.6,4.0,45
+Ben,Jackson,0,0,0,0.0,0.0,40
+Joshua,Duffus,0,0,0,0.0,0.0,44
+Leigh,Kavanagh,0,0,0,0.0,0.0,40
+Luca,Barrington,0,0,0,0.0,0.0,45
+Cameron,Peupion,0,0,0,0.0,0.0,45
+Valentín,Barco,0,0,307,44.8,39.0,40
+Samy,Chouchane,0,0,0,0.0,0.0,45
+Odeluga,Offiah,0,0,126,6.4,4.0,40
+Noël,Atom,0,0,0,0.0,0.0,40
+Enock,Agyei,0,0,0,0.0,0.0,42
+Ameen,Al-Dakhil,1,0,1055,193.0,84.0,38
+Samuel,Bastien,0,0,0,0.0,0.0,49
+Manuel Benson,Hedilazio,0,0,110,17.6,30.0,52
+Jordan,Beyer,0,1,1234,330.8,35.0,39
+Josh,Brownhill,4,2,2248,499.0,234.0,47
+Darko,Churlinov,0,0,0,0.0,0.0,44
+Jack,Cork,0,0,25,4.2,2.0,48
+Dara,Costelloe,0,0,0,0.0,0.0,45
+Josh,Cullen,2,4,2055,458.0,106.0,50
+CJ,Egan-Riley,0,0,0,0.0,0.0,39
+Hjalmar,Ekdal,0,0,436,76.6,15.0,39
+Lyle,Foster,5,3,1898,364.2,467.0,47
+Denis,Franchi,0,0,0,0.0,0.0,39
+Jóhann Berg,Gudmundsson,1,3,1185,234.6,158.0,48
+Luke,McNally,0,0,0,0.0,0.0,40
+Arijanet,Muric,0,0,900,513.0,0.0,43
+Dara,O'Shea,3,4,2892,772.0,213.0,44
+Michael,Obafemi,0,0,19,0.0,17.0,49
+Bailey,Peacock-Farrell,0,0,0,0.0,0.0,40
+Connor,Roberts,0,1,817,142.8,12.0,43
+Jay,Rodriguez,2,1,811,138.8,232.0,53
+Charlie,Taylor,1,1,2329,395.6,59.0,39
+Bobby,Thomas,0,0,0,0.0,0.0,40
+Scott,Twine,0,0,0,0.0,0.0,49
+Lawrence,Vigouroux,0,0,0,0.0,0.0,39
+Victor,da Silva,0,3,2311,305.4,228.0,44
+Wout,Weghorst,0,0,0,0.0,0.0,55
+Anass,Zaroury,0,0,149,6.8,19.0,46
+David Datro,Fofana,4,1,876,212.0,273.0,50
+Sander,Berge,1,2,3002,533.6,161.0,46
+Zeki,Amdouni,5,1,1953,372.8,509.0,51
+James,Trafford,0,0,2520,903.6,0.0,44
+Nathan,Redmond,0,0,132,23.8,18.0,47
+Luca,Koleosho,1,2,972,86.8,213.0,48
+Jacob,Bruun Larsen,6,0,1235,335.8,448.0,48
+Owen,Dodgson,0,0,0,0.0,0.0,40
+Wilson,Odobert,3,4,2095,331.0,445.0,50
+Hannes,Delcroix,0,0,584,110.0,42.0,40
+Aaron,Ramsey,0,0,522,51.2,53.0,50
+Han-Noah,Massengo,0,0,14,2.8,0.0,49
+Mike,Trésor,0,0,410,44.4,24.0,52
+Lorenz,Assignon,1,2,1235,270.2,119.0,40
+Maxime,Esteve,0,0,1310,229.2,29.0,40
+Moisés,Caicedo Corozo,1,3,2865,613.6,68.0,45
+Robert,Sánchez,0,0,1433,450.6,0.0,45
+Ethan,Ampadu,0,0,0,0.0,0.0,40
+Andrey,Nascimento dos Santos,0,0,7,0.0,3.0,42
+Kepa,Arrizabalaga,0,0,0,0.0,0.0,50
+Pierre-Emerick,Aubameyang,0,0,0,0.0,0.0,65
+César,Azpilicueta,0,0,0,0.0,0.0,45
+Abdul Rahman,Baba,0,0,0,0.0,0.0,40
+Benoît,Badiashile,0,1,1337,336.4,51.0,44
+Marcus,Bettinelli,0,0,0,0.0,0.0,40
+Trevoh,Chalobah,1,0,949,250.8,38.0,43
+Ben,Chilwell,0,2,752,128.4,139.0,54
+Carney,Chukwuemeka,1,1,222,78.4,52.0,42
+Levi,Colwill,1,1,1794,394.6,163.0,46
+Marc,Cucurella Saseta,0,3,1783,384.4,122.0,49
+Enzo,Fernández,3,3,2208,527.2,369.0,48
+Wesley,Fofana,0,0,0,0.0,0.0,44
+Conor,Gallagher,5,8,3129,754.8,401.0,54
+Malo,Gusto,0,6,1746,434.8,174.0,43
+Reece,James,0,2,416,137.4,61.0,53
+Romelu,Lukaku Bolingoli,0,0,0,0.0,0.0,68
+Noni,Madueke,5,3,1044,341.6,401.0,53
+Mykhailo,Mudryk,5,5,1564,347.2,420.0,63
+Nicolas,Jackson,14,6,2801,783.8,1098.0,70
+Christopher,Nkunku,3,0,437,134.6,222.0,72
+Christian,Pulisic,0,0,0,0.0,0.0,55
+Malang,Sarr,0,0,0,0.0,0.0,43
+Gabriel,Słonina,0,0,0,0.0,0.0,40
+Raheem,Sterling,8,8,1972,502.8,747.0,68
+Thiago,Emiliano da Silva,3,1,2525,797.0,165.0,50
+Hakim,Ziyech,0,0,0,0.0,0.0,54
+Cole,Palmer,22,13,2617,1240.2,1016.0,63
+Ângelo Gabriel,Borges Damaceno,0,0,0,0.0,0.0,50
+Ian,Maatsen,0,0,200,29.4,29.0,51
+Axel,Disasi,2,0,2579,573.2,172.0,49
+Lesley,Ugochukwu,0,0,296,60.8,4.0,44
+Mason,Burstow,0,0,8,0.4,2.0,45
+Lucas,Bergström,0,0,0,0.0,0.0,39
+Roméo,Lavia,0,0,32,3.6,0.0,49
+Bashir,Humphreys,0,0,0,0.0,0.0,40
+Deivid Washington,de Souza Eugênio,0,0,11,0.0,4.0,45
+Eddie,Beach,0,0,0,0.0,0.0,40
+Diego Manuel Jadon,da Silva Moreira,0,0,0,0.0,0.0,45
+Đorđe,Petrović,0,0,1986,567.8,0.0,47
+Alfie,Gilchrist,1,0,200,70.6,33.0,40
+Ronnie,Stutter,0,0,0,0.0,0.0,45
+Alex,Matos,0,0,1,0.0,0.0,45
+Josh,Brooking,0,0,0,0.0,0.0,40
+Leo,Castledine,0,0,0,0.0,0.0,45
+Cesare,Casadei,0,0,71,19.8,2.0,45
+Ishé,Samuels-Smith,0,0,0,0.0,0.0,40
+Ollie,Harrison,0,0,0,0.0,0.0,45
+Jimi,Tauriainen,0,0,1,0.0,0.0,45
+Josh,Acheampong,0,0,5,15.0,0.0,40
+Teddy,Sharman-Lowe,0,0,0,0.0,0.0,40
+Tyrique,George,0,0,0,0.0,0.0,45
+Kiano,Dyer,0,0,0,0.0,0.0,45
+Ted,Curd,0,0,0,0.0,0.0,40
+Zak,Sturge,0,0,0,0.0,0.0,40
+Rob,Holding,0,0,0,0.0,0.0,43
+Naouirou,Ahamada,0,0,332,41.2,61.0,43
+Joachim,Andersen,2,3,3416,873.6,253.0,47
+Jordan,Ayew,4,7,2540,517.6,550.0,53
+Nathaniel,Clyne,0,1,1335,179.6,21.0,43
+Cheick,Doucouré,0,0,920,165.8,36.0,48
+Malcolm,Ebiowei,0,0,0,0.0,0.0,44
+Odsonne,Edouard,7,0,1545,359.6,663.0,53
+Eberechi,Eze,11,5,2054,740.4,735.0,60
+Vicente,Guaita,0,0,0,0.0,0.0,44
+Marc,Guéhi,0,1,2020,417.8,35.0,42
+Will,Hughes,0,2,1886,319.2,67.0,49
+Sam,Johnstone,0,0,1796,321.4,0.0,43
+Jefferson,Lerma Solís,1,1,2399,417.6,240.0,47
+Jean-Philippe,Mateta,16,7,2274,775.0,741.0,51
+Remi,Matthews,0,0,3,1.0,0.0,39
+Tyrick,Mitchell,2,3,3204,669.8,209.0,45
+Jake,O'Brien,0,0,0,0.0,0.0,40
+Michael,Olise,10,6,1272,627.6,556.0,57
+Luke,Plange,0,0,0,0.0,0.0,45
+Chris,Richards,1,1,2091,456.2,108.0,39
+Jairo,Riedewald,0,0,228,24.6,14.0,43
+Jeffrey,Schlupp,2,2,1340,279.8,229.0,48
+James,Tomkins,0,0,8,3.0,0.0,39
+Joel,Ward,0,1,1978,348.2,41.0,45
+Joe,Whitworth,0,0,0,0.0,0.0,39
+Dean,Henderson,0,0,1620,434.8,0.0,44
+Matheus,França de Oliveira,0,2,224,36.4,53.0,48
+Jesurun,Rak-Sakyi,0,0,132,23.2,58.0,45
+John-Kymani,Gordon,0,0,0,0.0,0.0,45
+Ademola,Ola-Adebomi,0,0,0,0.0,0.0,45
+David,Ozoh,0,0,148,25.2,0.0,45
+Jadan,Raymond,0,0,0,0.0,0.0,45
+Tayo,Adaramola,0,0,0,0.0,0.0,40
+Daniel,Muñoz,0,4,1440,331.0,119.0,45
+Adam,Wharton,0,3,1296,255.0,29.0,50
+Franco,Umeh-Chibueze,0,0,0,0.0,0.0,45
+Kaden,Rodney,0,0,0,0.0,0.0,45
+Roshaun,Mathurin,0,0,0,0.0,0.0,44
+André,Tavares Gomes,1,0,505,72.8,81.0,44
+Jarrad,Branthwaite,3,1,3116,789.4,185.0,45
+Dominic,Calvert-Lewin,7,3,2166,403.0,901.0,58
+Seamus,Coleman,0,0,661,108.6,6.0,44
+Dele,Alli,0,0,0,0.0,0.0,48
+Abdoulaye,Doucouré,7,3,2632,462.4,687.0,55
+James,Garner,1,2,3001,526.6,244.0,49
+Jean-Philippe,Gbamin,0,0,0,0.0,0.0,44
+Ben,Godfrey,0,0,1120,221.4,156.0,43
+Demarai,Gray,0,0,0,0.0,0.0,53
+Idrissa,Gueye,4,0,1885,406.8,154.0,48
+Michael,Keane,1,0,437,108.2,92.0,42
+Dwight,McNeil,3,8,2891,615.4,400.0,54
+Vitalii,Mykolenko,2,1,2469,517.4,211.0,45
+Amadou,Onana,2,0,2085,354.0,254.0,47
+Nathan,Patterson,0,2,1000,207.2,26.0,43
+Jordan,Pickford,0,0,3420,969.2,0.0,48
+Ellis,Simms,0,0,0,0.0,0.0,45
+James,Tarkowski,1,1,3420,915.4,320.0,46
+João,Neves Virgínia,0,0,0,0.0,0.0,39
+Andy,Lonergan,0,0,0,0.0,0.0,39
+Ashley,Young,0,1,2277,284.8,87.0,44
+Arnaut,Danjuma Groeneveld,1,0,587,73.6,271.0,52
+Lewis,Dobbin,1,0,226,68.4,59.0,45
+Youssef,Ramalho Chermiti,0,0,196,19.2,84.0,48
+Thomas,Cannon,0,0,1,0.0,0.0,45
+Tyler,Onyango,0,0,1,0.0,0.0,44
+Jack,Harrison,3,3,2212,397.4,339.0,55
+Norberto Bercique,Gomes Betuncal,3,0,943,158.8,425.0,57
+Mackenzie,Hunt,0,0,0,0.0,0.0,45
+Jenson,Metcalfe,0,0,0,0.0,0.0,45
+Elijah,Campbell,0,0,0,0.0,0.0,40
+Lewis,Warrington,0,0,1,0.0,0.0,45
+Billy,Crellin,0,0,0,0.0,0.0,40
+Armando,Broja,1,2,529,75.6,152.0,49
+Alex,Iwobi,5,2,2331,504.2,534.0,53
+Andreas,Hoelgebaum Pereira,3,9,2611,503.6,417.0,53
+Tom,Cairney,1,6,1472,335.2,170.0,49
+Ivan,Neves Abreu Cavaleiro,0,0,0,0.0,0.0,50
+Bobby,De Cordova-Reid,6,3,1410,330.6,325.0,52
+Issa,Diop,0,0,1423,348.8,37.0,44
+Tyrese,Francois,0,0,0,0.0,0.0,44
+Anthony,Knockaert,0,0,0,0.0,0.0,44
+Terence,Kongolo,0,0,0,0.0,0.0,40
+Bernd,Leno,0,0,3420,1069.8,0.0,48
+Saša,Lukić,1,0,1113,192.4,115.0,43
+Kevin,Mbabu,0,0,0,0.0,0.0,40
+Aleksandar,Mitrović,0,0,32,6.4,26.0,74
+Rodrigo,Muniz Carvalho,9,2,1589,409.0,875.0,43
+João,Palhinha Gonçalves,4,1,2698,659.2,365.0,50
+Tim,Ream,1,0,1503,339.8,45.0,44
+Harrison,Reed,0,2,1317,213.8,45.0,43
+Antonee,Robinson,0,6,3266,805.8,241.0,45
+Marek,Rodák,0,0,0,0.0,0.0,39
+Kenny,Tete,1,0,863,195.2,67.0,44
+Tosin,Adarabioyo,2,0,1616,431.8,152.0,43
+Carlos Vinícius,Alves Morais,2,0,306,83.6,139.0,45
+Harry,Wilson,4,7,1603,375.0,340.0,53
+Raúl,Jiménez,7,0,1390,335.8,440.0,50
+Willian,Borges da Silva,4,3,2048,416.4,439.0,53
+Calvin,Bassey,1,0,2299,462.8,50.0,44
+Luc,De Fougerolles,0,0,0,0.0,0.0,39
+Jay,Stansfield,0,0,0,0.0,0.0,45
+Matthew,Dibley-Dias,0,0,0,0.0,0.0,45
+Adama,Traoré,2,3,363,164.2,140.0,49
+Luke,Harris,0,0,74,3.2,17.0,45
+Timothy,Castagne,1,3,2630,494.4,229.0,45
+Steven,Benda,0,0,0,0.0,0.0,40
+Fodé,Ballo-Touré,0,0,65,13.6,2.0,45
+Devan,Tanton,0,0,0,0.0,0.0,40
+Kristian,Sekularac,0,0,0,0.0,0.0,44
+Joshua,King,0,0,0,0.0,0.0,45
+Adrián,San Miguel del Castillo,0,0,0,0.0,0.0,38
+Trent,Alexander-Arnold,3,5,2153,601.8,237.0,84
+Alisson,Ramses Becker,0,0,2520,671.2,0.0,57
+Stefan,Bajcetic,0,0,25,7.8,0.0,47
+Darwin,Núñez Ribeiro,11,11,2033,660.8,1223.0,75
+Diogo,Teixeira da Silva,10,7,1141,483.8,639.0,79
+Harvey,Elliott,3,9,1330,417.2,391.0,48
+Fabio Henrique,Tavares,0,0,0,0.0,0.0,50
+Cody,Gakpo,8,5,1633,521.4,708.0,71
+Joe,Gomez,0,2,1772,316.0,119.0,45
+Jordan,Henderson,0,0,0,0.0,0.0,50
+Curtis,Jones,1,1,1156,174.0,195.0,49
+Caoimhin,Kelleher,0,0,900,261.2,0.0,36
+Ibrahima,Konaté,0,0,1570,357.4,87.0,49
+Luis,Díaz,8,7,2625,613.0,1190.0,76
+Alexis,Mac Allister,5,5,2600,712.4,224.0,59
+Joel,Matip,0,0,779,192.8,35.0,48
+Nathaniel,Phillips,0,0,0,0.0,0.0,40
+Andrew,Robertson,3,2,1689,552.2,230.0,65
+Mohamed,Salah,18,12,2531,1033.8,1531.0,134
+Dominik,Szoboszlai,3,4,2102,423.4,377.0,71
+Thiago,Alcántara do Nascimento,0,0,5,0.6,0.0,47
+Konstantinos,Tsimikas,0,3,675,158.8,35.0,43
+Sepp,van den Berg,0,0,0,0.0,0.0,40
+Virgil,van Dijk,2,2,3177,911.2,449.0,66
+Jarell,Quansah,2,0,1188,331.6,104.0,40
+Bobby,Clark,0,0,86,11.6,19.0,44
+Ben,Doak,0,0,13,0.2,0.0,43
+James,McConnell,0,0,3,1.0,0.0,44
+Wataru,Endo,1,0,1714,281.6,53.0,54
+Ryan,Gravenberch,1,0,1110,187.0,198.0,50
+Luke,Chambers,0,0,0,0.0,0.0,40
+Callum,Scanlon,0,0,0,0.0,0.0,39
+Treymaurice,Nyoni,0,0,0,0.0,0.0,45
+Marcelo,de Araújo Pitaluga Filho,0,0,0,0.0,0.0,40
+Conor,Bradley,1,3,752,230.4,160.0,41
+Owen,Beck,0,0,7,5.0,0.0,45
+Kaide,Gordon,0,0,1,0.2,2.0,45
+Lewis,Koumas,0,0,0,0.0,0.0,45
+Fabian,Mrozek,0,0,0,0.0,0.0,40
+Jayden,Danns,0,0,7,0.0,0.0,43
+Amara,Nallo,0,0,0,0.0,0.0,40
+Albert,Sambi Lokonga,1,3,1304,289.8,56.0,49
+Marvelous,Nakamba,0,0,1131,146.4,14.0,43
+Elijah,Adebayo,10,1,1405,413.6,527.0,48
+Mads Juel,Andersen,1,0,397,126.8,27.0,38
+Amari'i,Bell,0,0,1720,358.2,50.0,38
+Luke,Berry,2,1,309,112.6,117.0,46
+Reece,Burke,0,4,1659,406.4,131.0,40
+Allan,Campbell,0,0,0,0.0,0.0,49
+Jordan,Clark,1,1,1297,198.8,177.0,48
+Alfie,Doughty,2,10,2923,690.4,318.0,43
+Luke,Freeman,0,0,0,0.0,0.0,49
+Matt,Macey,0,0,0,0.0,0.0,40
+John,McAtee,0,0,0,0.0,0.0,45
+Carlos,Mendes Gomes,0,0,0,0.0,0.0,45
+Carlton,Morris,11,6,2859,620.2,908.0,47
+Admiral,Muskwe,0,0,0,0.0,0.0,45
+Chiedozie,Ogbene,4,4,1987,412.6,486.0,48
+Fred,Onyedinma,0,0,403,36.2,71.0,50
+Gabriel,Osho,2,0,1846,448.6,103.0,44
+Aribim,Pepple,0,0,0,0.0,0.0,45
+Dion,Pereira,0,0,0,0.0,0.0,44
+Dan,Potts,0,0,0,0.0,0.0,39
+Glen,Rea,0,0,0,0.0,0.0,44
+James,Shea,0,0,14,11.0,0.0,42
+Joe,Taylor,0,0,0,0.0,0.0,45
+Elliot,Thorpe,0,0,0,0.0,0.0,45
+Jack,Walton,0,0,0,0.0,0.0,40
+Louie,Watson,0,0,0,0.0,0.0,44
+Cauley,Woodrow,1,1,406,127.0,103.0,43
+Teden,Mengi,1,0,2467,579.6,95.0,39
+Ryan,Giles,0,0,498,83.2,38.0,42
+Tom,Lockyer,1,1,1169,286.2,80.0,42
+Pelly Ruddock,Mpanzu,0,0,1085,108.8,70.0,46
+Tahith,Chong,4,2,1972,303.6,310.0,44
+Issa,Kaboré,0,3,1727,326.6,62.0,40
+Thomas,Kaminski,0,0,3405,1116.6,0.0,45
+Ross,Barkley,5,5,2616,687.4,379.0,45
+Jacob,Brown,2,1,1013,162.6,249.0,49
+Aidan,Francis-Clarke,0,0,0,0.0,0.0,40
+Tim,Krul,0,0,0,0.0,0.0,44
+Joseph,Johnson,0,0,75,1.0,0.0,40
+Andros,Townsend,1,4,1197,221.4,148.0,50
+Jayden,Luker,0,0,0,0.0,0.0,45
+Zack,Nelson,0,0,4,2.0,0.0,45
+Daiki,Hashioka,0,0,592,101.4,8.0,40
+Axel,Piesold,0,0,0,0.0,0.0,45
+Dominic,Dos Santos Martins,0,0,0,0.0,0.0,45
+Christian,Chigozie,0,0,0,0.0,0.0,40
+Taylan,Harris,0,0,0,0.0,0.0,45
+Manuel,Akanji,2,0,2512,536.4,137.0,50
+Nathan,Aké,2,3,2039,447.2,249.0,50
+Julián,Álvarez,11,11,2644,737.0,992.0,64
+Bernardo,Veiga de Carvalho e Silva,6,9,2576,747.4,570.0,62
+Oscar,Bobb,1,2,294,105.4,107.0,44
+João,Cancelo,0,0,0,0.0,0.0,58
+Scott,Carson,0,0,0,0.0,0.0,38
+Shea,Charles,0,0,0,0.0,0.0,45
+Kevin,De Bruyne,4,10,1219,527.6,406.0,106
+Rúben,Gato Alves Dias,0,0,2557,578.4,225.0,55
+Ederson,Santana de Moraes,0,0,2785,551.8,0.0,55
+Phil,Foden,19,8,2860,1154.8,1172.0,85
+Jack,Grealish,3,1,998,240.4,295.0,72
+Erling,Haaland,27,8,2553,1094.6,1581.0,143
+Mateo,Kovačić,1,0,1539,265.0,129.0,46
+Aymeric,Laporte,0,0,11,11.4,17.0,49
+Rico,Lewis,2,0,804,148.0,114.0,42
+Riyad,Mahrez,0,0,0,0.0,0.0,75
+Stefan,Ortega Moreno,0,0,632,171.2,0.0,36
+Máximo,Perrone,0,0,0,0.0,0.0,44
+Rodrigo,Hernandez,8,10,2931,1043.8,484.0,56
+Sergio,Gómez,0,1,48,22.6,10.0,38
+Zack,Steffen,0,0,0,0.0,0.0,39
+John,Stones,1,0,1061,188.4,70.0,53
+Kyle,Walker,0,5,2766,465.4,126.0,55
+Matheus Luiz,Nunes,0,2,831,146.0,150.0,47
+Joško,Gvardiol,4,2,2327,544.4,389.0,52
+Jérémy,Doku,3,10,1585,524.2,875.0,64
+Mahamadou,Susoho,0,0,0,0.0,0.0,45
+Micah,Hamilton,0,0,0,0.0,0.0,45
+Jacob,Wright,0,0,0,0.0,0.0,45
+Mason,Mount,1,0,509,105.8,64.0,68
+Alex,Telles,0,0,0,0.0,0.0,45
+Amad,Diallo,1,1,385,117.0,114.0,44
+Antony Matheus,dos Santos,1,1,1311,247.8,347.0,68
+Bruno,Borges Fernandes,10,9,3118,1101.6,748.0,85
+Brandon,Williams,0,0,0,0.0,0.0,40
+Eric,Bailly,0,0,0,0.0,0.0,40
+Carlos Henrique,Casimiro,1,3,1981,628.4,323.0,53
+Diogo,Dalot Teixeira,2,3,3174,738.6,212.0,52
+Christian,Eriksen,1,2,1134,255.4,93.0,58
+Álvaro,Fernández Carreras,0,0,0,0.0,0.0,40
+Frederico,Rodrigues de Paula Santos,0,0,0,0.0,0.0,50
+Alejandro,Garnacho,7,7,2564,527.2,1103.0,50
+Hannibal,Mejbri,1,0,131,48.2,13.0,43
+Tom,Heaton,0,0,0,0.0,0.0,39
+Victor,Lindelöf,1,1,1328,263.8,105.0,45
+Harry,Maguire,2,4,1650,493.4,192.0,43
+Kobbie,Mainoo,3,1,1927,413.4,134.0,44
+Tyrell,Malacia,0,0,0,0.0,0.0,43
+Anthony,Martial,1,1,439,67.2,97.0,64
+Lisandro,Martínez,0,1,643,144.4,4.0,47
+Scott,McTominay,7,1,1891,539.4,492.0,45
+Facundo,Pellistri Rebollo,0,1,164,47.0,66.0,42
+Raphaël,Varane,1,0,1370,356.2,85.0,49
+Marcus,Rashford,7,3,2264,453.2,672.0,84
+Jadon,Sancho,0,0,76,9.8,12.0,67
+Luke,Shaw,0,1,960,197.2,29.0,52
+Shola,Shoretire,0,0,0,0.0,0.0,44
+Donny,van de Beek,0,0,2,0.0,6.0,47
+Aaron,Wan-Bissaka,0,2,1778,397.8,60.0,44
+André,Onana,0,0,3420,1167.8,0.0,50
+Rasmus,Højlund,10,2,2156,480.6,648.0,71
+Omari,Forson,0,1,67,24.2,4.0,44
+Radek,Vítek,0,0,0,0.0,0.0,40
+Daniel,Gore,0,0,1,3.0,0.0,45
+Altay,Bayindir,0,0,0,0.0,0.0,39
+Jonny,Evans,0,1,1389,330.8,21.0,40
+Sofyan,Amrabat,0,0,929,159.0,6.0,50
+Joe,Hugill,0,0,0,0.0,0.0,45
+Willy,Kambwala,0,0,325,53.8,0.0,39
+Rhys,Bennett,0,0,0,0.0,0.0,40
+Toby,Collyer,0,0,0,0.0,0.0,45
+Habeeb,Ogunneye,0,0,0,0.0,0.0,40
+Dermot,Mee,0,0,0,0.0,0.0,40
+Harry,Amass,0,0,0,0.0,0.0,40
+Ethan,Wheatley,0,0,13,2.0,0.0,45
+Louis,Jackson,0,0,0,0.0,0.0,40
+Lewis,Hall,1,0,773,194.8,85.0,42
+Miguel,Almirón Rejala,3,1,1930,299.8,434.0,60
+Elliot,Anderson,0,2,1018,187.4,201.0,42
+Harrison,Ashby,0,0,0,0.0,0.0,40
+Sven,Botman,2,2,1375,386.8,104.0,45
+Bruno,Guimarães Rodriguez Moura,7,9,3264,968.4,489.0,58
+Dan,Burn,2,2,2725,656.4,286.0,47
+Karl,Darlow,0,0,0,0.0,0.0,40
+Martin,Dubravka,0,0,1984,661.0,0.0,43
+Ryan,Fraser,0,0,0,0.0,0.0,49
+Mark,Gillespie,0,0,0,0.0,0.0,39
+Anthony,Gordon,11,16,2896,822.6,905.0,64
+Isaac,Hayden,0,0,0,0.0,0.0,44
+Jeff,Hendrick,0,0,0,0.0,0.0,44
+Alexander,Isak,21,4,2253,877.4,1054.0,84
+Joelinton Cássio,Apolinário de Lira,2,1,1276,295.2,206.0,58
+Emil,Krafth,0,0,909,164.2,28.0,44
+Garang,Kuol,0,0,0,0.0,0.0,45
+Jamaal,Lascelles,1,0,1077,233.0,69.0,37
+Jamal,Lewis,0,0,0,0.0,0.0,40
+Sean,Longstaff,6,3,2742,550.0,479.0,48
+Javier,Manquillo Gaitán,0,0,0,0.0,0.0,40
+Jacob,Murphy,3,8,1184,377.8,270.0,48
+Nick,Pope,0,0,1345,323.0,4.0,53
+Matt,Ritchie,1,0,120,70.0,106.0,43
+Allan,Saint-Maximin,0,0,0,0.0,0.0,60
+Fabian,Schär,4,3,3055,826.6,278.0,56
+Matt,Targett,0,0,77,9.2,0.0,42
+Sandro,Tonali,1,0,437,81.8,50.0,52
+Kieran,Trippier,1,10,2235,719.0,102.0,66
+Kell,Watts,0,0,0,0.0,0.0,40
+Joe,Willock,1,0,415,89.8,106.0,53
+Callum,Wilson,9,1,981,366.2,563.0,78
+Loris,Karius,0,0,90,31.8,0.0,39
+Paul,Dummett,0,0,18,5.2,4.0,39
+Harvey,Barnes,5,3,788,279.2,334.0,62
+Tino,Livramento,1,0,1302,292.0,96.0,40
+Alex,Murphy,0,0,11,2.6,0.0,39
+Lewis,Miley,1,3,1203,237.4,136.0,45
+Amadou,Diallo,0,0,1,0.0,0.0,45
+Ben,Parkinson,0,0,24,2.0,0.0,45
+Michael,Ndiweni,0,0,1,0.2,0.0,44
+Joe,White,0,0,12,0.8,0.0,45
+Travis,Hernes,0,0,0,0.0,0.0,45
+Nuno,Varela Tavares,0,0,454,61.8,28.0,40
+Matt,Turner,0,0,1530,379.6,0.0,37
+Callum,Hudson-Odoi,8,2,1846,489.0,444.0,47
+Anthony,Elanga,5,9,2424,536.4,618.0,49
+Brandon,Aguilera Zamora,0,0,4,0.0,0.0,45
+Harry,Arter,0,0,0,0.0,0.0,43
+Serge,Aurier,0,2,831,187.6,45.0,45
+Taiwo,Awoniyi,6,3,1036,303.2,308.0,63
+Giulian,Biancone,0,0,0,0.0,0.0,39
+Willy,Boly,2,1,1437,480.0,200.0,45
+Josh,Bowler,0,0,0,0.0,0.0,45
+Steve,Cook,0,0,0,0.0,0.0,45
+Danilo,dos Santos de Oliveira,2,2,1787,368.0,137.0,53
+Emmanuel,Dennis,0,0,0,0.0,0.0,48
+Mohamed,Dräger,0,0,0,0.0,0.0,40
+Felipe Augusto,de Almeida Monteiro,0,0,372,61.2,18.0,44
+Remo,Freuler,0,0,0,0.0,0.0,49
+Morgan,Gibbs-White,5,12,3156,703.2,495.0,57
+Wayne,Hennessey,0,0,0,0.0,0.0,39
+Ethan,Horvath,0,0,0,0.0,0.0,43
+Cheikhou,Kouyaté,0,0,206,36.0,25.0,48
+Richie,Laryea,0,0,0,0.0,0.0,45
+Orel,Mangala,1,0,1562,208.0,44.0,50
+Loïc,Mbe Soh,0,0,0,0.0,0.0,40
+Scott,McKenna,0,0,416,89.0,17.0,44
+Alex,Mighten,0,0,0,0.0,0.0,44
+Moussa,Niakhaté,1,0,1456,316.6,55.0,45
+Lewis,O'Brien,0,0,0,0.0,0.0,49
+Braian,Ojeda Rodríguez,0,0,0,0.0,0.0,45
+Jonathan,Panzo,0,0,0,0.0,0.0,40
+Omar,Richards,0,0,0,0.0,0.0,44
+Gustavo Henrique,Furtado Scarpa,0,0,0,0.0,0.0,45
+Jonjo,Shelvey,0,0,0,0.0,0.0,48
+Sam,Surridge,0,0,0,0.0,0.0,45
+Harry,Toffolo,1,3,1452,355.0,171.0,44
+Hwang,Ui-jo,0,0,0,0.0,0.0,44
+Neco,Williams,0,1,1630,393.4,139.0,43
+Chris,Wood,14,1,1801,598.2,795.0,47
+Joe,Worrall,0,0,438,90.0,18.0,43
+Ryan,Yates,1,1,1979,330.4,258.0,48
+Olu,Aina,1,1,1690,312.0,49.0,45
+George,Shelvey,0,0,0,0.0,0.0,39
+Josh,Powell,0,0,0,0.0,0.0,39
+Gonzalo,Montiel,0,2,796,170.6,32.0,44
+Murillo,Santiago Costa dos Santos,0,2,2790,678.4,164.0,45
+Odysseas,Vlachodimos,0,0,450,101.8,0.0,45
+Andrew,Omobamidele,0,0,782,148.6,16.0,45
+Nicolás,Domínguez,2,2,1489,340.4,187.0,50
+Ibrahim,Sangaré,0,0,1031,168.8,43.0,49
+Divock,Origi,0,1,594,50.4,99.0,50
+Jamie,McDonnell,0,0,0,0.0,0.0,45
+Detlef Esapa,Osong,0,0,0,0.0,0.0,45
+Joe,Gardner,0,0,0,0.0,0.0,45
+Giovanni,Reyna,0,1,228,55.0,55.0,46
+Matz,Sels,0,0,1440,293.2,0.0,45
+Rodrigo,Duarte Ribeiro,0,0,14,1.2,6.0,45
+Auston,Trusty,0,0,2568,517.4,106.0,39
+Cameron,Archer,4,3,1829,266.0,353.0,42
+Mason,Holgate,0,0,711,117.8,19.0,40
+James,McAtee,3,4,1815,333.8,333.0,44
+Anel,Ahmedhodžić,2,0,2649,568.4,228.0,43
+Jordan,Amissah,0,0,0,0.0,0.0,39
+George,Baldock,0,2,968,173.6,21.0,38
+Chris,Basham,0,0,316,69.2,14.0,39
+Jayden,Bogle,3,3,2787,514.4,339.0,45
+Rhian,Brewster,0,0,338,21.0,85.0,49
+Ismaila,Coulibaly,0,0,0,0.0,0.0,44
+Adam,Davies,0,0,0,0.0,0.0,40
+John,Egan,0,0,482,91.2,38.0,42
+John,Fleck,0,0,89,5.4,2.0,49
+Wes,Foderingham,0,0,2648,966.0,0.0,44
+Daniel,Jebbison,0,0,20,0.0,4.0,48
+Max,Lowe,0,1,498,102.2,18.0,43
+Oliver,McBurnie,6,3,1279,377.4,501.0,54
+Iliman,Ndiaye,0,0,0,0.0,0.0,55
+Rhys,Norrington-Davies,0,0,109,8.2,2.0,39
+Oliver,Norwood,1,0,1429,311.2,82.0,48
+Ben,Osborn,0,2,1359,191.4,26.0,48
+William,Osula,0,1,778,27.0,200.0,42
+Jack,Robinson,1,1,2883,602.8,190.0,43
+Anis,Slimane,0,0,409,41.6,72.0,47
+Yasser,Larouci,0,0,527,80.8,39.0,43
+Bénie,Traoré,0,0,383,25.8,31.0,51
+Vini,de Souza Costa,1,1,2664,558.4,152.0,50
+Femi,Seriki,0,0,0,0.0,0.0,39
+Louie,Marsh,0,0,0,0.0,0.0,45
+Andre,Brooks,0,0,932,88.6,76.0,44
+Antwoine,Hackford,0,0,11,0.0,0.0,44
+Gustavo,Hamer,4,7,2908,581.2,294.0,49
+Tom,Davies,0,0,214,26.4,48.0,50
+Luke,Thomas,0,0,916,127.8,64.0,40
+Ryan,Oné,0,0,7,0.0,0.0,44
+Jili,Buyabu,0,0,0,0.0,0.0,40
+Sydie,Peck,0,0,9,0.0,0.0,44
+Ben,Brereton,6,1,1105,312.2,422.0,50
+Ivo,Grbic,0,0,771,257.6,0.0,45
+Billy,Blacker,0,0,0,0.0,0.0,45
+Oliver,Arblaster,0,0,942,155.4,23.0,45
+Dovydas,Sasnauskas,0,0,0,0.0,0.0,40
+Sam,Curtis,0,0,27,2.2,0.0,40
+Owen,Hampson,0,0,0,0.0,0.0,45
+Brennan,Johnson,5,12,2317,554.4,782.0,58
+Brandon,Austin,0,0,0,0.0,0.0,39
+Rodrigo,Bentancur,1,1,997,193.0,156.0,54
+Yves,Bissouma,0,0,2070,403.0,140.0,50
+Bryan,Gil Salvatierra,0,0,200,28.6,59.0,49
+Ben,Davies,1,2,1085,294.8,124.0,43
+Eric,Dier,0,0,199,55.8,4.0,42
+Emerson,Leite de Souza Junior,1,0,1152,316.0,55.0,43
+Fraser,Forster,0,0,0,0.0,0.0,38
+Pierre-Emile,Højbjerg,0,0,1289,282.2,108.0,51
+Harry,Kane,0,0,0,0.0,0.0,125
+Dejan,Kulusevski,8,3,2759,698.8,953.0,67
+Hugo,Lloris,0,0,0,0.0,0.0,47
+Giovani,Lo Celso,2,2,491,225.8,110.0,48
+James,Maddison,4,11,2137,630.4,605.0,78
+Tanguy,Ndombélé Alvaro,0,0,0,0.0,0.0,44
+Pedro,Porro,3,8,3090,839.0,365.0,59
+Ivan,Perišić,0,1,98,41.6,27.0,47
+Richarlison,de Andrade,11,4,1481,560.6,758.0,68
+Joe,Rodon,0,0,0,0.0,0.0,40
+Cristian,Romero,5,0,2790,841.8,252.0,51
+Davinson,Sánchez,0,0,76,17.0,4.0,44
+Pape Matar,Sarr,3,3,2063,406.0,317.0,44
+Ryan,Sessegnon,0,0,0,0.0,0.0,44
+Oliver,Skipp,0,0,691,92.0,65.0,45
+Son,Heung-min,17,10,2934,993.2,1131.0,100
+Djed,Spence,0,0,0,0.0,0.0,40
+Japhet,Tanganga,0,0,0,0.0,0.0,40
+Destiny,Udogie,2,3,2391,534.8,279.0,49
+Guglielmo,Vicario,0,0,3420,974.2,0.0,53
+Alfie,Whiteman,0,0,0,0.0,0.0,39
+Manor,Solomon,0,2,196,73.4,61.0,51
+Micky,van de Ven,3,0,2341,561.6,85.0,44
+Dane,Scarlett,0,0,19,2.0,6.0,45
+Alejo,Véliz,1,0,45,35.2,29.0,54
+Ashley,Phillips,0,0,0,0.0,0.0,40
+Jamie,Donley,0,0,3,3.0,0.0,45
+Alfie,Dorrington,0,0,0,0.0,0.0,40
+Yago,de Santiago Alonso,0,0,0,0.0,0.0,45
+Timo,Werner,2,4,808,179.0,305.0,63
+Radu,Dragusin,0,0,424,95.4,6.0,42
+Mikey,Moore,0,0,3,1.0,0.0,45
+Tyrese,Hall,0,0,0,0.0,0.0,45
+Kalvin,Phillips,0,0,394,35.6,31.0,47
+Nayef,Aguerd,1,0,1857,439.4,145.0,44
+Michail,Antonio,6,2,1692,308.6,395.0,57
+Alphonse,Areola,0,0,2700,1023.2,0.0,42
+Saïd,Benrahma,0,1,611,85.4,196.0,56
+Jarrod,Bowen,16,6,3020,890.4,1130.0,76
+Maxwel,Cornet,1,0,109,44.0,54.0,52
+Vladimír,Coufal,0,7,3135,661.6,92.0,45
+Conor,Coventry,0,0,0,0.0,0.0,43
+Aaron,Cresswell,0,0,431,58.8,2.0,42
+Flynn,Downes,0,0,0,0.0,0.0,50
+Emerson,Palmieri dos Santos,1,4,3138,649.0,168.0,43
+Lukasz,Fabianski,0,0,721,245.6,0.0,42
+Pablo,Fornals Malla,0,0,418,64.2,79.0,46
+Danny,Ings,1,2,389,82.4,125.0,55
+Ben,Johnson,0,0,538,84.6,38.0,44
+Thilo,Kehrer,0,0,19,8.6,0.0,42
+Divin,Mubama,0,0,75,0.2,5.0,41
+Lucas,Tolentino Coelho de Lima,4,6,2627,570.6,343.0,60
+Gianluca,Scamacca,0,0,0,0.0,0.0,60
+Tomáš,Souček,7,2,2867,751.6,488.0,49
+Nikola,Vlašić,0,0,0,0.0,0.0,45
+Kurt,Zouma,3,0,2838,636.8,227.0,45
+Angelo,Ogbonna,0,0,634,131.0,10.0,42
+Edson,Álvarez Velázquez,1,1,2375,545.8,89.0,50
+Joseph,Anang,0,0,0,0.0,0.0,40
+James,Ward-Prowse,7,7,3000,831.0,324.0,57
+Konstantinos,Mavropanos,1,0,1500,300.2,112.0,45
+Mohammed,Kudus,8,9,2485,667.2,566.0,67
+Lewis,Orford,0,0,0,0.0,0.0,45
+Kaelan,Casey,0,0,1,2.0,0.0,40
+Oliver,Scarles,0,0,0,0.0,0.0,40
+Callum,Marshall,0,0,0,0.0,0.0,45
+George,Earthy,1,0,33,32.8,33.0,45
+Tommy,Doyle,0,0,1209,198.4,55.0,44
+Rayan,Aït-Nouri,2,3,2327,448.4,253.0,46
+Daniel,Bentley,0,0,382,70.8,0.0,39
+Bendegúz,Bolla,0,0,0,0.0,0.0,40
+Hugo,Bueno López,0,0,727,139.4,30.0,44
+Francisco Jorge,Tomás Oliveira,0,0,0,0.0,0.0,45
+Luke,Cundle,0,0,0,0.0,0.0,45
+Craig,Dawson,1,1,2209,611.8,222.0,45
+Fábio,Silva,0,0,259,25.2,93.0,52
+Gonçalo Manuel,Ganchinho Guedes,0,0,0,0.0,0.0,54
+Joe,Hodge,0,0,0,0.0,0.0,44
+Ki-Jana,Hoever,0,0,0,0.0,0.0,40
+Hwang,Hee-chan,12,3,2116,534.2,614.0,54
+João Victor,Gomes da Silva,2,2,2646,493.2,196.0,49
+Jonathan,Castro Otto,0,0,4,5.0,0.0,43
+Bruno,Cavaco Jordão,0,0,0,0.0,0.0,43
+Sasa,Kalajdzic,2,0,158,94.0,66.0,49
+Max,Kilman,2,0,3420,853.6,212.0,44
+Tom,King,0,0,0,0.0,0.0,39
+Mario,Lemina,4,1,2969,621.6,470.0,49
+Pedro,Lomba Neto,2,11,1516,371.4,389.0,55
+Daniel,Castelo Podence,0,0,0,0.0,0.0,53
+José,Malheiro de Sá,0,1,3037,1003.4,0.0,50
+Pablo,Sarabia,4,7,1737,469.2,418.0,45
+Matija,Šarkić,0,0,0,0.0,0.0,40
+Nélson,Cabral Semedo,0,2,3084,508.8,165.0,45
+Toti António,Gomes,1,4,2771,550.0,167.0,44
+Boubacar,Traoré,0,0,802,114.4,27.0,43
+Matheus,Santos Carneiro Da Cunha,12,7,2438,786.0,872.0,55
+Matt,Doherty,1,0,1136,237.8,122.0,43
+Santiago,Bueno,0,0,819,173.8,2.0,45
+Enso,González,0,0,1,0.2,0.0,50
+Nathan,Fraser,0,0,183,22.4,36.0,45
+Jean-Ricner,Bellegarde,2,2,948,189.8,163.0,49
+Matthew,Whittingham,0,0,0,0.0,0.0,45
+Tawanda,Chirewa,0,0,138,22.0,21.0,44
+Justin,Hubner,0,0,0,0.0,0.0,40
+Owen,Hesketh,0,0,0,0.0,0.0,45
+Ty,Barnett,0,0,0,0.0,0.0,45
+Harvey,Griffiths,0,0,0,0.0,0.0,45
+Yerson,Mosquera,0,0,0,0.0,0.0,40
+Noha,Lemina,0,0,0,0.0,0.0,50
+Wesley,Okoduwa,0,0,0,0.0,0.0,40
+Leon,Chiwome,0,0,173,7.8,13.0,45
+Fletcher,Holman,0,0,0,0.0,0.0,45
+Temple,Ojinnaka,0,0,0,0.0,0.0,45
